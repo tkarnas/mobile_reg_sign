@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85315000705",
+    "firebase_url": "https://kodelab-7a559-default-rtdb.firebaseio.com",
+    "project_id": "kodelab-7a559",
+    "storage_bucket": "kodelab-7a559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85315000705:android:00e5464b7560cbe2bbb080",
+        "android_client_info": {
+          "package_name": "com.kodelab.kodelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85315000705-cca2bjjesjm6n5a36c6vbn04e4hh02ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrayWY3I5glNQE1-QDGt_Mv1kqu7q5xnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85315000705-cca2bjjesjm6n5a36c6vbn04e4hh02ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
